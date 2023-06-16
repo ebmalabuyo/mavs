@@ -1,7 +1,8 @@
-InsideScouting:
+# InsideScouting
 
-HOW TO USE (data only for team miami heat and player victor oladipo)
--add players to front office review, can sort by salary and age
--search for players and their stats under player database, can filter results with position or specific player search
--check team free agents and team stats on the team page
--for more information on the player look at player detail page
+## How to Use
+
+- Add players to the front office review and sort them by salary and age.
+- Search for players and their stats in the player database. You can filter the results by position or specific player search.
+- Check the team's free agents and team stats on the team page.
+- For more information on a player, visit the player detail page.
