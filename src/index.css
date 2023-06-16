@@ -2,12 +2,59 @@ body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
+    sans-serif;}
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+/*ONLY CSS FOR PLAYER CARDS BELOW everything else styled in react*/
+.cards {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1.5rem;
+}
+
+.profilepic {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: solid;
+}
+
+.loading {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.player-card {
+  transition: transform 1s; 
+}
+
+.player-card:hover {
+  transform: scale(1.02);
+}
+
+.unit-indicator {
+  display: inline-block;
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  margin-left: 5px;
+  border: black solid 2px;
+}
+
+
+@media (max-width: 700px) {
+  .cards {
+    grid-template-columns: repeat(1, 1fr);
+  }
+  .profile-picture {
+    width: 100px;
+    height: 100px;
+  }
 }
