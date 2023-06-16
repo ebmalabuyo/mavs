@@ -10,7 +10,7 @@
         - can filter the results by position or specific player search.
 - For more information on a player, visit the player detail page.
 
-        - can add to front office review under player's information page
+        - can add the player to front office review under player's information page
         - view scouting reports and add a new scouting report to players page   
 - Check each team's free agents and team's last season stats on the team page.
 
