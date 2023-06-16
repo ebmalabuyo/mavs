@@ -15,4 +15,4 @@
 - Check each team's free agents and team's last season stats on the team page.
 
 
-## NOTE: data processed in backend node, express app on https://mavs-backend.onrender.com/
+## NOTE: UPON UI RENDER, backend may take some time to load data because I have it hosted on the cheapest and slowest tier on Render. Data processed in backend node, express app on https://mavs-backend.onrender.com/, 
