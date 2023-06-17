@@ -15,4 +15,6 @@
 - Check each team's free agents and team's last season stats on the team page.
 
 
-## NOTE: UPON UI RENDER, backend may take some time to load data because I have it hosted on Render. Data processed in backend node, express app on https://mavs-backend.onrender.com/ 
+## NOTE:
+## -Only free agent data for miami heat and player profile victor oladipo
+## UPON UI RENDER, backend may take some time to load data because I have it hosted on Render. Data processed in backend node, express app on https://mavs-backend.onrender.com/ 
