@@ -5,7 +5,7 @@
 - Add players to the front office review  
 
         - can sort them by salary and age.
-- Search for players and their stats in the player database. Add them to front office review
+- Search for players and their stats by team in the player database. Add them to front office review
 
         - can filter the results by position or specific player search.
 - For more information on a player, visit the player detail page.
