@@ -12,7 +12,7 @@
 
         - can add the player to front office review under player's information page
         - view scouting reports and add a new scouting report to players page   
-- Check each team's free agents and team's last season stats on the team page.
+- Check each team's upcoming free agents and team's last season stats on the team page.
 
 
 ## NOTE:
