@@ -17,4 +17,4 @@
 
 ## NOTE:
 ## -Only free agent data for miami heat and player profile victor oladipo
-## UPON UI RENDER, backend may take some time to load data because I have it hosted on Render. Data processed in backend node, express app on https://mavs-backend.onrender.com/ 
+## UPON UI Initial RENDER, backend may take some time to load data because I have it hosted on Render. Data processed in backend node, express app on https://mavs-backend.onrender.com/ 
