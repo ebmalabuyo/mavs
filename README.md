@@ -1,3 +1,8 @@
+DALLAS MAVERICKS CODING CHALLENGE
+app:
+http://mavs-projectfrontend.s3-website-us-east-1.amazonaws.com/
+backend code: 
+https://github.com/ebmalabuyo/mavs_backend
 # InsideScouting
 
 ## How to Use
